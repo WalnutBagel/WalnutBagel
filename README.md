@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Привет! Я Иван, ML-специалист.  <br>- 🔭 Ищу работу в data или ML.<br>- 🌱 5 лет учу школьников и студентов программировать.<br>- 👯 Открыт к интересным задачам и новым командам.<br>- 📫 saveliev_i_s@mail.ru | Telegram: @walnut_bagel<br>
+## Привет! Я Иван, ML-специалист.  <br>- 🔭 Ищу работу в data или ML.<br>- 🌱 6 лет учу школьников и студентов программировать.<br>- 👯 Открыт к интересным задачам и новым командам.<br>- 📫 saveliev_i_s@mail.ru | Telegram: @walnut_bagel<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=WalnutBagel&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WalnutBagel&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
